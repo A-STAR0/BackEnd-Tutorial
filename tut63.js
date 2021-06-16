@@ -25,7 +25,7 @@ const server = http.createServer((req, res) => {
               background-color: rgb(223, 245, 201);
               padding: 34px;
               margin: 34px auto;
-              width: 666px;
+              width: 660px;
           }
           a{
               text-decoration: none;
