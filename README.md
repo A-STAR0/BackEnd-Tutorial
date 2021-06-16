@@ -1,3 +1,3 @@
 # BackEnd-Tutorial
 
-BackEnd Repo to teach server side development to beginners.
+BackEnd Repo of Comience to teach server side development to beginners.
