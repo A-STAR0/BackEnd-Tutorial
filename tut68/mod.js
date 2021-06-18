@@ -21,4 +21,4 @@ module.exports = {
   sqrt: sqrt,
   name: 'aman mishra',
   Repo: 'Backend-Tutorial',
-};//exporting as an object
+}; //exporting as an object

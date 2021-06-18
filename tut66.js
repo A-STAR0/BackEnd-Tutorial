@@ -11,4 +11,5 @@ const server = http.createServer((req, res) => {
 
 server.listen(80, '127.0.0.1', () => {
   console.log(`server listening on port 80 and host '127.0.0.1'`);
+  //if port is 80 there is no need to mention it in url on browser as 127.0.0.1:80 but in case if there was some port other then 80  i have to mention it compulsory in the url on browswer as 127.0.0.1:X;
 });
